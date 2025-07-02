@@ -19,3 +19,5 @@ console.log("Результат: " + userAnswer);
 alert("Увага! Дія може бути небезпечною.");
 let userConfirmed = confirm("Ви впевнені, що хочете продовжити?");
 console.log("Користувач підтвердив дію: " + userConfirmed);
+const hi = "Hello world";
+
